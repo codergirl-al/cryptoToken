@@ -1,2 +1,3 @@
-# solidity_smart_contracts
-Just a repo where I add solidity smart contracts to have a nice experience and life :)
+# Creating a crypto token and adding it on the exchange
+
+### This is an ongoing research for the upcoming weeks.
